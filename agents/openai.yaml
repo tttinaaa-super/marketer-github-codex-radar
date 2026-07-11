@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketer GitHub Radar"
+  short_description: "Find GitHub tools marketers can use in Codex"
+  default_prompt: "Use $marketer-github-codex-radar to find this week's GitHub tools a marketer can use in Codex."
